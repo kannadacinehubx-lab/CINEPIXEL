@@ -1,8 +1,12 @@
 body {
-  background: #111;
+  background: #0f0f0f;
   color: white;
   font-family: Arial;
   text-align: center;
+}
+
+h1 {
+  color: red;
 }
 
 .buttons button {
@@ -12,6 +16,7 @@ body {
   background: red;
   color: white;
   cursor: pointer;
+  border-radius: 5px;
 }
 
 .grid {
